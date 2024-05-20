@@ -1,4 +1,6 @@
-Game rắn săn mồi đơn giản B1: tải source code về máy B2:chạy game (chỉ cần chạy hàm main)
+Game rắn săn mồi đơn giản 
+B1: tải source code về máy 
+B2:chạy game (chỉ cần chạy hàm main)
 
 Cách chơi:
 
@@ -9,7 +11,9 @@ Cách tính điểm:
  - ăn quả sầu riêng nhỏ: 5d
  - ăn quả sầu riêng lớn: 10-50d( tùy vào thời gian) Sau 2 lần quả sầu riêng lớn xuất hiện thì lần thứ 3 nó sẽ xuất hiện rất nhanh để cho số điểm 
    của người chơi không quá lớn
-
+Tinh năng:
+- người chơi có thể chọn 3 mức độ khó để chơi.
+  
 // một vài bản nâng cấp qua các đời ( các bản không có điểm khác quá nhiều )
-
+người chơi có thể tải các bản chưa nâng cấp để trải nghiệm.
 bản cuối cùng là 2.3 là bản nâng cấp mới nhất.
