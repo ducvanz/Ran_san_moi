@@ -1,6 +1,6 @@
 Game rắn săn mồi đơn giản 
-B1: tải source code về máy 
-B2:chạy game (chỉ cần chạy hàm main)
+- B1: tải source code về máy 
+- B2:chạy game (chỉ cần chạy hàm main)
 
 Cách chơi:
 
@@ -15,5 +15,7 @@ Tinh năng:
 - người chơi có thể chọn 3 mức độ khó để chơi.
   
 // một vài bản nâng cấp qua các đời ( các bản không có điểm khác quá nhiều )
+
 người chơi có thể tải các bản chưa nâng cấp để trải nghiệm.
+
 bản cuối cùng là 2.3 là bản nâng cấp mới nhất.
