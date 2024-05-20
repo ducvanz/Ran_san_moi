@@ -14,6 +14,7 @@ Cách tính điểm:
    
 Tính năng:
 - người chơi có thể chọn 3 mức độ khó để chơi.
+- quả lớn sẽ xuất hiện khi người chơi tích đủ điểm.
 
 Một vài nguồn tham khảo:
 - chatgpt 3.5 về cài đặt file
