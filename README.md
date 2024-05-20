@@ -11,7 +11,8 @@ Cách tính điểm:
  - ăn quả sầu riêng nhỏ: 5d
  - ăn quả sầu riêng lớn: 10-50d( tùy vào thời gian) Sau 2 lần quả sầu riêng lớn xuất hiện thì lần thứ 3 nó sẽ xuất hiện rất nhanh để cho số điểm 
    của người chơi không quá lớn
-Tinh năng:
+   
+Tính năng:
 - người chơi có thể chọn 3 mức độ khó để chơi.
 
 Một vài nguồn tham khảo:
