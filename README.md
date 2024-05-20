@@ -13,7 +13,10 @@ Cách tính điểm:
    của người chơi không quá lớn
 Tinh năng:
 - người chơi có thể chọn 3 mức độ khó để chơi.
-  
+
+Một vài nguồn tham khảo:
+- chatgpt 3.5 về cài đặt file
+
 // một vài bản nâng cấp qua các đời ( các bản không có điểm khác quá nhiều )
 
 người chơi có thể tải các bản chưa nâng cấp để trải nghiệm.
